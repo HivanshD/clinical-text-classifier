@@ -1,7 +1,7 @@
 
 # Clinical Text Classification (Simple Prototype)
 
-A small, honest project that demonstrates:
+A small project that demonstrates:
 - Proficiency in **Python** and **machine learning** programming
 - Prior **ML/data science** experience (cleaning, features, metrics)
 - A foundation in **linear algebra** via TF‑IDF vectors and logistic regression
